@@ -20,6 +20,9 @@ connect_ots(config),
 
 connect_ots function (object){
  object ['host'],
+ object ['port'],
+ object ['user'],
+ object ['pass']
 //To be continued!🦦
 }
 ```
